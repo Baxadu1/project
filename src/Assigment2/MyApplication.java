@@ -1,4 +1,5 @@
- import java.util .*;
+package Assigment2;
+import java.util .*;
     interface Payable {
         double getPaymentAmount();
     }
